@@ -135,7 +135,8 @@
       "envelopeLine": "Một lá thư dành riêng cho em",
       "buttonLabel": "Lá thư"
     },
-    "bgMusic": "https://github.com/dendo3353-eng/vuon-hoa-3d-moi/blob/main/dulieuvuonhoa/SỚM MUỘN THÌ.mp3",
+   
+"bgMusic": "./dulieuvuonhoa/SỚM MUỘN THÌ.mp3",
     "expiresAt": "2027-10-15T20:32:21.781Z",
     "createdAt": "2026-10-15T20:32:20.998Z",
     "showWatermark": false
