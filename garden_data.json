@@ -4,8 +4,8 @@
     "configVersion": 1,
     "title": "Khu vườn hoa",
     "intro": {
-      "headline": "Chào mừng eiu đến khu vườn!",
-      "subtitle": "Có một khu vườn nhỏ,\nđang đợi eiu ghé thăm.",
+      "headline": "Chào mừng em đến khu vườn!",
+      "subtitle": "Có một khu vườn nhỏ,\nđang đợi em ghé thăm.",
       "buttonLabel": "Cùng nhau khám phá nhé",
       "occasion": ""
     },
@@ -13,72 +13,72 @@
       {
         "id": "3f76a943-ca21-4374-b494-ae2b23143664",
         "name": "💗",
-        "image": "./anh1.jpg",
-        "original": "./anh1.jpg",
+        "image": "./anh01.jpg",
+        "original": "./anh01.jpg",
         "wish": "ngày mới ngập tràn năng lượng tích cực và luôn cười thật tươi nhé!"
       },
       {
         "id": "289cfd44-c4bd-4351-82bd-b43462be795c",
         "name": "💗",
-        "image": "./anh2.jpg",
-        "original": "./anh2.jpg",
-        "wish": "Hôm nay eiu nhớ ăn uống đầy đủ, đừng bỏ bữa đẻ không bị đau dạ dày nha. Yêu bé!"
+        "image": "./anh02.jpg",
+        "original": "./anh02.jpg",
+        "wish": "Hôm nay em nhớ ăn uống đầy đủ, đừng bỏ bữa đẻ không bị đau dạ dày nha. Yêu bé!"
       },
       {
         "id": "c5decd72-1521-4458-895c-8ccfefd80a54",
         "name": "💗",
-        "image": "./anh3.jpg",
-        "original": "./anh3.jpg",
-        "wish": "Mong một ngày bình yên, thật vui vẻ và gặp toàn những điều may mắn đến với eiu."
+        "image": "./anh03.jpg",
+        "original": "./anh03.jpg",
+        "wish": "Mong một ngày bình yên, thật vui vẻ và gặp toàn những điều may mắn đến với em."
       },
       {
         "id": "63089763-4418-42fb-b43f-db03a539f5cb",
         "name": "💗",
-        "image": "./anh4.jpg",
-        "original": "./anh4.jpg",
-        "wish": "Mỗi ngày trôi qua, aiu chỉ mong thấy eiu luôn vui vẻ, an yên và không phải lo nghĩ nhiều."
+        "image": "./anh04.jpg",
+        "original": "./anh04.jpg",
+        "wish": "Mỗi ngày trôi qua, aiu chỉ mong thấy em luôn vui vẻ, an yên và không phải lo nghĩ nhiều."
       },
       {
         "id": "d85385cc-fab9-4cc5-95a5-7d482b44a9a2",
         "name": "💗",
-        "image": "./anh5.jpg",
-        "original": "./anh5.jpg",
-        "wish": "Cảm ơn eiu vì luôn là động lực to lớn và là điều tuyệt vời nhất trong cuộc sống của aiu."
+        "image": "./anh05.jpg",
+        "original": "./anh05.jpg",
+        "wish": "Cảm ơn em vì luôn là động lực to lớn và là điều tuyệt vời nhất trong cuộc sống của anh."
       },
       {
         "id": "95735ce6-259d-495b-b4fb-b9ee2c6f9759",
         "name": "💗",
-        "image": "./anh6.jpg",
-        "original": "./anh6.jpg",
-        "wish": "Nếu hôm nay có mệt mỏi hay áp lực, nhớ là luôn có aiu ở đây lắng nghe và vỗ về eiu nhé."
+        "image": "./anh06.jpg",
+        "original": "./anh06.jpg",
+        "wish": "Nếu hôm nay có mệt mỏi hay áp lực, nhớ là luôn có anh ở đây lắng nghe và vỗ về em nhé."
       },
       {
         "id": "53141b96-97fe-494c-9dec-3a7d60e77b04",
         "name": "💗",
-        "image": "./anh7.jpg",
-        "original": "./anh7.jpg",
-        "wish": "Chúc eiu luôn yêu đời, tự tin vào chính mình và tận hưởng từng khoảnh khắc nhỏ bé mỗi ngày."
+        "image": "./anh07.jpg",
+        "original": "./anh07.jpg",
+        "wish": "Chúc em luôn yêu đời, tự tin vào chính mình và tận hưởng từng khoảnh khắc nhỏ bé mỗi ngày."
       },
       {
         "id": "e6d77cda-ca01-4964-a656-7eec399b77c4",
         "name": "💗",
-        "image": "./anh8.jpg",
-        "original": "./anh8.jpg",
-        "wish": "Dù ngày mưa hay ngày nắng, chỉ cần nhìn thấy eiu cười là một ngày của aiu đều trở nên tuyệt vời."
+        "image": "./anh08.jpg",
+        "original": "./anh08.jpg",
+        "wish": "Dù ngày mưa hay ngày nắng, chỉ cần nhìn thấy em cười là một ngày của anh đều trở nên tuyệt vời."
       },
       {
         "id": "9b4753e8-3105-4f2c-9df3-17f117c08282",
         "name": "💗",
-        "image": "./anh9.jpg",
-        "original": "./anh9.jpg",
-        "wish": "Uống đủ nước, nghỉ ngơi điều độ và nhớ rằng luôn có một người đang thương eiu rất nhiều."
+        "image": "./anh09.jpg",
+        "original": "./anh09.jpg",
+        "wish": "Uống đủ nước, nghỉ ngơi điều độ và nhớ rằng luôn có một người đang thương em rất nhiều."
       },
       {
         "id": "2a68836e-57ba-4877-b10e-09c8bd65c865",
         "name": "💗",
-        "image": "./anh10.jpg",
-        "original": "./anh10.jpg",
-        "wish": "Chúc eiu buổi tối thật ấm áp, ngủ một giấc thật ngon và mơ những giấc mơ thật đẹp nhé!"
+        "image": "./anh010.jpg",
+        "original": "./anh010.jpg",
+        "wish": "Chúc em buổi tối thật ấm áp, ngủ một giấc thật ngon và mơ những giấc mơ thật đẹp nhé!"
       }
     ],
     "enableBouquet": true,
@@ -126,13 +126,13 @@
     },
     "enableLetter": false,
     "letter": {
-      "title": "Gửi tới eiu của anh <3",
+      "title": "Gửi tới em của anh <3",
       "opening": "",
       "text": "Anh không biết phải nói những lời hoa mỹ thế nào, chỉ mong em luôn vui vẻ, bình an và gặp thật nhiều điều tốt đẹp trong cuộc sống. Mong rằng những ngày tháng phía trước của em sẽ luôn ngập tràn tiếng cười, những điều em mong muốn đều sẽ trở thành hiện thực. Nếu có những ngày mệt mỏi hay không vui, anh mong em nhớ rằng vẫn luôn có anh ở đây, sẵn sàng lắng nghe, quan tâm và yêu thương em. Cảm ơn em vì đã xuất hiện và trở thành một phần đặc biệt trong cuộc sống của anh. Anh thương em nhiều! ❤️",
       "signoff": "",
       "sender": "",
       "date": "",
-      "envelopeLine": "Một lá thư dành riêng cho eiu",
+      "envelopeLine": "Một lá thư dành riêng cho em",
       "buttonLabel": "Lá thư"
     },
     "bgMusic": "./music.mp3",
